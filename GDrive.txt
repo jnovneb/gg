@@ -1,6 +1,0 @@
-Clave Api: AIzaSyDLfRIAlx77Y0dmNdap49Dt1cVUJJujJ90
-Id Cliente: 754012494256-dmkgqog0cekvs2sveb737hfrgthq8uci.apps.googleusercontent.com
-Secreto Cliente: WaKZMYuTFFeuKWhX5Z3yIeIO
-Generado: 4/3gH_ntTbLk8z2n_qdRp-wRT0lUnYLpnbIwjFWefuMH-cXt2ftc4zhBI
-Nombre: AnilMurthy
-Archivo creado por Luar
